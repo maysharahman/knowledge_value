@@ -1,10 +1,10 @@
-# KnowledgeVault
+# KnowledgeValue
 
 A simple, clean, and responsive static landing page built using only HTML and CSS, following a provided Figma design.
 
 ## 🔍 Project Overview
 
-KnowledgeVault is a landing page design focused on organizing notes and ideas efficiently.  
+KnowledgeValue is a landing page design focused on organizing notes and ideas efficiently.  
 The goal of this project was to translate a Figma design into a functional webpage while maintaining proper alignment, structure, and visual consistency.
 
 ## ✨ Features
